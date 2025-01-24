@@ -52,7 +52,7 @@ To run the project locally, follow these steps:
 ## 📝 Conclusion
 This landing page was created using a combination of **HTML**, **Tailwind CSS**, and **Vite**, resulting in a visually appealing and functional page that effectively showcases Razorpay's payment solutions.
 
-### Thank you for checking out the RazorPay Clone! We hope you enjoy exploring its features and functionalities. Have a great day! 👋
+### Thank you for checking out the RazorPay Clone! We hope you enjoy exploring its features and functionalities. Have a great day!  👋
 
 ## 📬 Connect With Me
 - **LinkedIn**: [Navin Kumar](https://www.linkedin.com/in/navinkumar0062/)
