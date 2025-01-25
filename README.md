@@ -9,7 +9,7 @@ Welcome to the **Razorpay Clone**! This project is a clone website for Razorpay,
 - **Partnership Showcase**: Displays partnerships with popular businesses.
 
 ## 📌 Live Site URL
-[**Visit Now** 🚀](<actual-live-url>)
+[**Visit Now** 🚀](https://razorpay-payment-app.netlify.app/)
 
 ## 🛠 Technologies Used
 - **HTML**
